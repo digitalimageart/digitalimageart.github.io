@@ -17,12 +17,12 @@ comments: false
 #### Laser Graffiti
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=jLwrPJXooHs" frameborder="0"> </iframe>
 #### VR
-####Audio Visualization
+#### Audio Visualization
 
 ## Contact
-######Contact us by these way
+Contact us by these way
 
-######Tel. 
-######Email. dart201106@gmail.com
-######Kakao. 
-######Location. Kyungpook National Univ. BeakhoKwan 413
+ Tel. 
+ Email. dart201106@gmail.com
+ Kakao. 
+ Location. Kyungpook National Univ. BeakhoKwan 413
