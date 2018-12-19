@@ -7,21 +7,22 @@ comments: false
 ---
     
 <center><b>Dart</b></a> is abbreviation of Digital & Image Art.</center>
+######
 <center> we are willing to make something special</center>
 
-##Projects
-###These are our major Projects 
-####Project Mapping
+## Projects
+### These are our major Projects 
+#### Project Mapping
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=MU57XtHQu3c" frameborder="0"> </iframe>
-####Laser Graffiti
+#### Laser Graffiti
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=jLwrPJXooHs" frameborder="0"> </iframe>
-####VR
+#### VR
 ####Audio Visualization
 
-##Contact
-Contact us by these way
+## Contact
+######Contact us by these way
 
-Tel. 
-Email. dart201106@gmail.com
-Kakao. 
-Location. Kyungpook National Univ. BeakhoKwan 413
+######Tel. 
+######Email. dart201106@gmail.com
+######Kakao. 
+######Location. Kyungpook National Univ. BeakhoKwan 413
