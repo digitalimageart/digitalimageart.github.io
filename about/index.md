@@ -7,7 +7,6 @@ comments: false
 ---
     
 <center><b>Dart</b></a> is abbreviation of Digital & Image Art.</center>
-######
 <center> we are willing to make something special</center>
 
 ## Projects
