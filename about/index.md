@@ -6,7 +6,7 @@ date: 2018-12-19
 comments: false
 ---
     
-<center><b>Dart</b></a> is abbreviation of Digital & Image Art.</center>
+<center><b>Dart</b> is abbreviation of Digital & Image Art.</center>
 <center> we are willing to make something special</center>
 
 ## Projects
