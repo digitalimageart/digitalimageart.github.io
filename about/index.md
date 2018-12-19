@@ -12,9 +12,9 @@ comments: false
 ## Projects
 ### These are our major Projects 
 #### Project Mapping
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=MU57XtHQu3c" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/MU57XtHQu3c" frameborder="0"> </iframe>
 #### Laser Graffiti
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=jLwrPJXooHs" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/jLwrPJXooHs" frameborder="0"> </iframe>
 #### VR
 #### Audio Visualization
 
