@@ -1,12 +1,12 @@
---
+---
 layout: post
-title:  "Dart VR Game"
+title:  "Dart V RGame"
 date:   2018-12-28
 excerpt: "Media art project"
 tag:
 - media_art
 - vr
-- unity
+- Unity
 project: true
 comments: true
 ---
