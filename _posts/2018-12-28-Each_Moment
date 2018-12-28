@@ -4,11 +4,9 @@ title:  "Each Moment"
 date:   2018-12-28
 excerpt: "Media art project"
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- themes
+- media_art
+- ar
+- opencv
 project: true
 comments: true
 ---
