@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dart V RGame"
+title:  "Dart VR Game"
 date:   2018-12-28
 excerpt: "Media art project"
 tag:
