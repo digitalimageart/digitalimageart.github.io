@@ -17,6 +17,6 @@ comments: true
 #### 우리는 이를 각각의 도형과 색으로 표현하고자 하였다.
 
 # Image
-![EachMomentPicture](./Images/EachMomentPicture.jpg)
+![EachMomentPicture](./Images/EachMomentPicture.png)
 
 ### Link
