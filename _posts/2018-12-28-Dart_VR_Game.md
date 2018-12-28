@@ -1,4 +1,4 @@
----
+--
 layout: post
 title:  "Dart VR Game"
 date:   2018-12-28
@@ -22,4 +22,4 @@ DART가 학교생활을 도와줄게
 
 
 ### Link
-<a href : https://github.com/digitalimageart/DartVRProject01></a>
+https://github.com/digitalimageart/DartVRProject01
