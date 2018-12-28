@@ -12,11 +12,11 @@ comments: true
 ---
 
 # Summary
-#### 사람들의 모든 순간은 다르다.
-#### 각각의 순간마다 감정도 다르고 받아들이는 것도 다르다.
-#### 우리는 이를 각각의 도형과 색으로 표현하고자 하였다.
+사람들의 모든 순간은 다르다.  
+각각의 순간마다 감정도 다르고 받아들이는 것도 다르다.  
+우리는 이를 각각의 도형과 색으로 표현하고자 하였다.  
 
 # Image
-![EachMomentPicture](./Images/EachMomentPicture.png)
+![EachMomentPicture](../images/EachMomentPicture.png)
 
 ### Link
