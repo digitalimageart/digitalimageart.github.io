@@ -12,11 +12,9 @@ comments: true
 ---
 
 # Summary
-Dart의 가두모집을 노림 프로젝트!  
-학교생활의 유혹을 뿌리치고  
-DART 글자를 모으자  
-DART가 학교생활을 도와줄게  
-
+Dart의 VR 프로젝트!  
+학점에 위협을 주는 요소들을 피해  
+DART를 모으자!!  
 
 # Image
 
