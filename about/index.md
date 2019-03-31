@@ -23,7 +23,5 @@ comments: false
 ## Contact
 Contact us by these way
 
-###### Tel. 
 ###### Email. dart201106@gmail.com
-###### Kakao. 
 ###### Location. Kyungpook National Univ. BeakhoKwan 413
